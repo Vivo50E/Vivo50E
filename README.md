@@ -22,11 +22,13 @@ Here are some ideas to get you started:
   <img  src="https://img.shields.io/badge/-Qt-green?logo=Qt&logoColor=41CD52" /> 
   <img  src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=black" /> 
   <img  src="https://img.shields.io/badge/-Windows-0078D6?logo=Windows&logoColor=white" /> 
-  <img  src="https://img.shields.io/badge/-Docker-FCC624?logo=Docker&logoColor=2496ED " /> 
-  <img  src="https://img.shields.io/badge/-MySQL-white?logo=MySQL&logoColor=4479A1 " /> 
+  <img  src="https://img.shields.io/badge/-Docker-FCC624?logo=Docker&logoColor=2496ED" /> 
+  <img  src="https://img.shields.io/badge/-MySQL-white?logo=MySQL&logoColor=4479A1" /> 
+  <img  src="https://img.shields.io/badge/-Redis-17202C?logo=Redis&logoColor=Red" /> 
+  
 <br>
   <br>🌱 I’m currently learning<br><br>
-  <img  src="https://img.shields.io/badge/-Golang-lightgrey?logo=Goland" />
+  <img  src="https://img.shields.io/badge/-Golang-17202C?logo=Goland" />
   <img  src="https://img.shields.io/badge/-Java-red?logo=IntelliJ IDEA&logoColor=white" />
   <img  src="https://img.shields.io/badge/-Amazon AWS-FF9900?logo=Amazon AWS&logoColor=232F3E" />
   <img  src="https://img.shields.io/badge/-Kubernetes-yellowgreen?logo=Kubernetes&logoColor=326CE5" /> 
