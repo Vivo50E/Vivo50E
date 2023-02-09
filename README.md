@@ -1,4 +1,10 @@
-### Hello 👋
+### 👋 Hello 
+
+### My GitHub Contributions
+
+![](https://raw.githubusercontent.com/Onexyq/Onexyq/main/assets/github-contribution-grid-snake.svg)
+
+### About Me
 
 <!--
 **Onexyq/Onexyq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### My GitHub Contributions
-![](https://raw.githubusercontent.com/Onexyq/Onexyq/main/assets/github-contribution-grid-snake.svg)
 
 <div align="center">
   🔭 I’m frequently working on<br><br>
