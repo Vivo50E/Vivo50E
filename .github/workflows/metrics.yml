@@ -12,7 +12,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-			- name: base
+      - name: base
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics/base.svg
