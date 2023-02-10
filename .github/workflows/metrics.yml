@@ -18,7 +18,7 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
-          user: sun0225SUN
+          user: Onexyq
           template: classic
           config_timezone: Asia/Shanghai
           base: "header, activity, community, repositories"
