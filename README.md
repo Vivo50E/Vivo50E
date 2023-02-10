@@ -65,4 +65,4 @@ Here are some ideas to get you started:
 </div>
 
 
-![Metrics](/github-metrics.svg)
+<img decoding="async" align="center" src="https://www.chengzz.com/wp-content/themes/zibll/img/thumbnail-lg.svg" data-src="/github-metrics.svg" alt="Metrics" width="400" class="lazyload">
