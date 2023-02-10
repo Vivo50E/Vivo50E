@@ -60,4 +60,4 @@ Here are some ideas to get you started:
     <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Onexyq&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=tokyonight" />
 </div>
 
-![Metrics](https://metrics.lecoq.io/Onexyq?template=classic&achievements=1&people=1&fortune=1&code=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&fortune=false&config.timezone=Asia%2FShanghai&config.display=columns)
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
