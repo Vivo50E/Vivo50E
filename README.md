@@ -24,8 +24,6 @@
   <img  src="https://img.shields.io/badge/-Java-red?logo=IntelliJ IDEA&logoColor=white" />
   <img  src="https://img.shields.io/badge/-Amazon AWS-FF9900?logo=Amazon AWS&logoColor=232F3E" />
   <img  src="https://img.shields.io/badge/-Kubernetes-yellowgreen?logo=Kubernetes&logoColor=326CE5" /> 
-  <img  src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img  src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
   <img  src="https://img.shields.io/badge/-JavaScript-orange?style=flat-square&logo=javascript" />
   <br>
 - ⚡ Fun fact: I'm a fan of animes and video games
