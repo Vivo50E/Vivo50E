@@ -7,27 +7,32 @@
   <img  src="https://img.shields.io/badge/-Docker-FCC624?logo=Docker&logoColor=2496ED" /> 
   <img  src="https://img.shields.io/badge/-Kubernetes-yellowgreen?logo=Kubernetes&logoColor=326CE5" /> 
   <img  src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=black" />
-  <img  src="https://img.shields.io/badge/-Amazon AWS-FF9900?logo=Amazon AWS&logoColor=232F3E" />
+  <img  src="https://img.shields.io/badge/-Git-lightgrey?logo=Git&logoColor=F05032 " />
+  <img  src="https://img.shields.io/badge/-AWS-FF9900?logo=Amazon AWS&logoColor=232F3E" />
   <img  src="https://img.shields.io/badge/-MySQL-white?logo=MySQL&logoColor=4479A1" /> 
   <img  src="https://img.shields.io/badge/-Redis-17202C?logo=Redis&logoColor=Red" /> 
-  
   <br>
-- 🚀 I use daily:
-  <img  src="https://img.shields.io/badge/-Discord-5865F2?logo=Discord&logoColor=white" />
+- 🚀 Social medias that I use daily:
+  <img  src="https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white" />
+  <img  src="https://img.shields.io/badge/-Reddit-FF4500?logo=reddit&logoColor=white" />
   <img  src="https://img.shields.io/badge/-WeChat-07C160?logo=WeChat&logoColor=white" />
+  <img  src="https://img.shields.io/badge/-Linkedin-0A66C2?logo=linkedin&logoColor=white" />
+  <img  src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white" />
   <img  src="https://img.shields.io/badge/-Bilibili-00A1D6?logo=Bilibili&logoColor=white" />
-  <img  src="https://img.shields.io/badge/-Windows-0078D6?logo=Windows&logoColor=white" />
-  <img  src="https://img.shields.io/badge/-Git-lightgrey?logo=Git&logoColor=F05032 " />
-  <img  src="https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white " />
-  <img  src="https://img.shields.io/badge/-LeetCode-FFA116?logo=LeetCode&logoColor=white " />
-  <img  src="https://img.shields.io/badge/-WordPress-21759B?logo=WordPress&logoColor=white " />
+  <!-- <img  src="https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white " /> 
+  <img  src="https://img.shields.io/badge/-LeetCode-FFA116?logo=LeetCode&logoColor=white " /> 
+  <img  src="https://img.shields.io/badge/-WordPress-21759B?logo=WordPress&logoColor=white " /> -->
   <br>
 - 🌱 I’m currently learning:
+  <img  src="https://img.shields.io/badge/-Rust-orange?logo=Rust&logoColor=000000 " />
   <img  src="https://img.shields.io/badge/-Golang-17202C?logo=Goland" />
-  <img  src="https://img.shields.io/badge/-Kubernetes-yellowgreen?logo=Kubernetes&logoColor=326CE5" /> 
-  <img  src="https://img.shields.io/badge/-JavaScript-orange?style=flat-square&logo=javascript" />
+  <img  src="https://img.shields.io/badge/-Cassandra-1287B1?logo=apachecassandra&logoColor=white " />
+  <img  src="https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white " />
+  <img  src="https://img.shields.io/badge/-React-2B2B2B?logo=react&logoColor=61DAFB " />
+  <img  src="https://img.shields.io/badge/-Terraform-white?logo=terraform&logoColor=844FBA " />
+  <img  src="https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white " />
   <br>
-- ⚡ Fun fact: I'm a fan of animes and video games
+- ⚡ I'm a big fan of animes, movies and video games XD, and my MBTI might be INTJ..
 
 ### My Skill Set
 <table><tr><td valign="top" width="33%">
@@ -35,9 +40,12 @@
 ### Frontend  
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a> 
+  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
 </div>
 
