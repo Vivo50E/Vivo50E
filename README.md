@@ -1,18 +1,21 @@
 ### Hi there👋
 
 - 🔭 I use for work:
-  <img  src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=C%2B%2B" /> 
-  <img  src="https://img.shields.io/badge/-Python-lightgrey?logo=Python&logoColor=3776AB" /> 
-  <img  src="https://img.shields.io/badge/-Qt-green?logo=Qt&logoColor=41CD52" /> 
-  <img  src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=black" /> 
+  <img  src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=C%2B%2B" />
+  <img  src="https://img.shields.io/badge/-Java-red?logo=IntelliJ IDEA&logoColor=white" />
+  <img  src="https://img.shields.io/badge/-Python-lightgrey?logo=Python&logoColor=3776AB" />
+  <img  src="https://img.shields.io/badge/-Docker-FCC624?logo=Docker&logoColor=2496ED" /> 
+  <img  src="https://img.shields.io/badge/-Kubernetes-yellowgreen?logo=Kubernetes&logoColor=326CE5" /> 
+  <img  src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=black" />
+  <img  src="https://img.shields.io/badge/-Amazon AWS-FF9900?logo=Amazon AWS&logoColor=232F3E" />
   <img  src="https://img.shields.io/badge/-MySQL-white?logo=MySQL&logoColor=4479A1" /> 
   <img  src="https://img.shields.io/badge/-Redis-17202C?logo=Redis&logoColor=Red" /> 
-  <img  src="https://img.shields.io/badge/-Docker-FCC624?logo=Docker&logoColor=2496ED" /> 
+  
   <br>
 - 🚀 I use daily:
+  <img  src="https://img.shields.io/badge/-Discord-5865F2?logo=Discord&logoColor=white" />
   <img  src="https://img.shields.io/badge/-WeChat-07C160?logo=WeChat&logoColor=white" />
   <img  src="https://img.shields.io/badge/-Bilibili-00A1D6?logo=Bilibili&logoColor=white" />
-  <img  src="https://img.shields.io/badge/-Discord-5865F2?logo=Discord&logoColor=white" />
   <img  src="https://img.shields.io/badge/-Windows-0078D6?logo=Windows&logoColor=white" />
   <img  src="https://img.shields.io/badge/-Git-lightgrey?logo=Git&logoColor=F05032 " />
   <img  src="https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white " />
@@ -21,8 +24,6 @@
   <br>
 - 🌱 I’m currently learning:
   <img  src="https://img.shields.io/badge/-Golang-17202C?logo=Goland" />
-  <img  src="https://img.shields.io/badge/-Java-red?logo=IntelliJ IDEA&logoColor=white" />
-  <img  src="https://img.shields.io/badge/-Amazon AWS-FF9900?logo=Amazon AWS&logoColor=232F3E" />
   <img  src="https://img.shields.io/badge/-Kubernetes-yellowgreen?logo=Kubernetes&logoColor=326CE5" /> 
   <img  src="https://img.shields.io/badge/-JavaScript-orange?style=flat-square&logo=javascript" />
   <br>
