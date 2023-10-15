@@ -32,7 +32,7 @@
   <img  src="https://img.shields.io/badge/-Terraform-white?logo=terraform&logoColor=844FBA " />
   <img  src="https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white " />
   <br>
-- ⚡ I'm a big fan of animes, movies and video games XD, and my MBTI might be INTJ..
+- ⚡ I am a lifelong learner and a big fan of movies, animes and video games.  MBTI == INTJ.
 
 ### My Skill Set
 <table><tr><td valign="top" width="33%">
