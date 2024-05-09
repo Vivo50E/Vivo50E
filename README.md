@@ -1,5 +1,6 @@
 ### Hi there👋
-My name is Yiqi Xue, I'm a  Computer Science graduate student passionate about backend development with substantial hands-on experience in C++, Databases, DevOps and Distributed Systems. I am a keen problem solver with an ability to learn quickly and apply previous experience and novel, creative solutions to solve problems.
+My name is Yiqi Xue, I‘m a computer science student passionate about software development with substantial  experience in C++, Python, backend, databases, and performance analysis. Keen problem solver able to learn quickly and adapt to new environments.
+
 - 🔭 I use for work:
   <img  src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=C%2B%2B" />
   <img  src="https://img.shields.io/badge/-Java-red?logo=IntelliJ IDEA&logoColor=white" />
@@ -32,9 +33,9 @@ My name is Yiqi Xue, I'm a  Computer Science graduate student passionate about b
   <img  src="https://img.shields.io/badge/-Terraform-white?logo=terraform&logoColor=844FBA " />
   <img  src="https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white " />
   <br>
-- ⚡ Fun fact: I am a big fan of movies, animes and video games.  My.MBTI := INTJ;
+- ⚡ Fun fact: I am a big fan of sci-fi movies, animes and video games.  My.MBTI := INTJ;
 
-### My Skill Set
+### My Tech Skill Set
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
