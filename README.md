@@ -31,6 +31,7 @@ My name is Yiqi Xue, I‘m a computer science student passionate about software 
   <img  src="https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white " />
   <img  src="https://img.shields.io/badge/-React-2B2B2B?logo=react&logoColor=61DAFB " />
   <img  src="https://img.shields.io/badge/-Terraform-white?logo=terraform&logoColor=844FBA " />
+  <img  src="https://img.shields.io/badge/-Spark-17202C?logo=apachespark&logoColor=Orange" />
   <br>
 - ⚡ Fun fact: I am a big fan of sci-fi movies, animes and video games.  My.MBTI := INTJ;
 
