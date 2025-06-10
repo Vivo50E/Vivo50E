@@ -1,5 +1,5 @@
 ### Hi there👋
-My name is Yiqi Xue, I‘m a computer science student passionate about software development with substantial  experience in C++, Python, backend, databases, and performance analysis. Keen problem solver able to learn quickly and adapt to new environments.
+My name is Yiqi. I’m an AI enthusiast and freelance programmer with a passion for AI-driven content creation. Feel free to share your thoughts with me!
 
 - 🔭 I use for work:
   <img  src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=C%2B%2B" />
