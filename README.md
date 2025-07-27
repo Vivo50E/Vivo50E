@@ -1,10 +1,9 @@
 ### Hi there👋
-My name is Yiqi. I’m an AI enthusiast and freelance programmer with a passion for AI-driven content creation. Feel free to share your thoughts with me!
+I’m an AI enthusiast and freelance programmer with a passion for AI-driven content creation. Feel free to share your thoughts with me!
 
 - 🔭 I use for work:
   <img  src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=C%2B%2B" />
   <img  src="https://img.shields.io/badge/-Python-lightgrey?logo=Python&logoColor=3776AB" />
-  <img  src="https://img.shields.io/badge/-Java-red?logo=IntelliJ IDEA&logoColor=white" />
   <img  src="https://img.shields.io/badge/-Docker-FCC624?logo=Docker&logoColor=2496ED" /> 
   <img  src="https://img.shields.io/badge/-Kubernetes-yellowgreen?logo=Kubernetes&logoColor=326CE5" /> 
   <img  src="https://img.shields.io/badge/-Git-lightgrey?logo=Git&logoColor=F05032 " />
