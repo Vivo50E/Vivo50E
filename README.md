@@ -6,9 +6,7 @@ I’m an AI enthusiast and freelance programmer with a passion for AI-driven con
   <img  src="https://img.shields.io/badge/-Python-lightgrey?logo=Python&logoColor=3776AB" />
   <img  src="https://img.shields.io/badge/-Docker-FCC624?logo=Docker&logoColor=2496ED" /> 
   <img  src="https://img.shields.io/badge/-Kubernetes-yellowgreen?logo=Kubernetes&logoColor=326CE5" /> 
-  <img  src="https://img.shields.io/badge/-Git-lightgrey?logo=Git&logoColor=F05032 " />
   <img  src="https://img.shields.io/badge/-AWS-FF9900?logo=Amazon&logoColor=232F3E" />
-  <img  src="https://img.shields.io/badge/-MySQL-white?logo=MySQL&logoColor=4479A1" /> 
   <img  src="https://img.shields.io/badge/-Redis-17202C?logo=Redis&logoColor=Red" />
   <!-- <img  src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=black" /> -->
   <br>
