@@ -24,17 +24,9 @@ I’m an AI enthusiast and freelance programmer with a passion for AI-driven con
   <img  src="https://img.shields.io/badge/-LeetCode-FFA116?logo=LeetCode&logoColor=white " /> 
   <img  src="https://img.shields.io/badge/-WordPress-21759B?logo=WordPress&logoColor=white " /> -->
   <br>
-- 🌱 I’m currently learning:
-  <img  src="https://img.shields.io/badge/-Rust-orange?logo=Rust&logoColor=000000 " />
-  <img  src="https://img.shields.io/badge/-Golang-17202C?logo=Goland" />
-  <img  src="https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white " />
-  <img  src="https://img.shields.io/badge/-React-2B2B2B?logo=react&logoColor=61DAFB " />
-  <img  src="https://img.shields.io/badge/-Terraform-white?logo=terraform&logoColor=844FBA " />
-  <img  src="https://img.shields.io/badge/-Spark-17202C?logo=apachespark&logoColor=Orange" />
-  <br>
 - ⚡ Fun fact: I am a big fan of sci-fi movies, animes and video games.  My.MBTI := INTJ;
 
-### My Tech Skill Set
+### My Skill Set
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
