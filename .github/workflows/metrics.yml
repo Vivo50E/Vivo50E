@@ -1,4 +1,4 @@
-# Auto generation: https://metrics.lecoq.io/embed?user=Onexyq
+# Auto generation: https://metrics.lecoq.io/embed?user=Vivo50E
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
 
 name: Metrics
@@ -27,7 +27,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: Onexyq
+          user: Vivo50E
           template: classic
           base: header, activity, community, repositories, metadata
           config_display: columns
