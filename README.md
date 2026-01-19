@@ -13,10 +13,8 @@ I’m an AI enthusiast and freelance programmer with a passion for AI-driven con
 - 🚀 Social medias that I use daily:
   <img  src="https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white" />
   <img  src="https://img.shields.io/badge/-Rednotes-E11D48?logo=Xiaohongshu&logoColor=white" />
-  <img  src="https://img.shields.io/badge/-Reddit-FF4500?logo=reddit&logoColor=white" />
   <img  src="https://img.shields.io/badge/-WeChat-07C160?logo=WeChat&logoColor=white" />
   <img  src="https://img.shields.io/badge/-Linkedin-0A66C2?logo=linkedin&logoColor=white" />
-  <img  src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white" />
   <img  src="https://img.shields.io/badge/-Bilibili-00A1D6?logo=Bilibili&logoColor=white" />
   <!-- <img  src="https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white " /> 
   <img  src="https://img.shields.io/badge/-LeetCode-FFA116?logo=LeetCode&logoColor=white " /> 
